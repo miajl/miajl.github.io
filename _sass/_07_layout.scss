@@ -221,14 +221,14 @@ body.video cite { color: #fff; }
 }
 
 #page-meta .button {
-    background: $grey-5;
+    background: $mia-color;
     border: 0;
 }
 #page-meta .button {
     color: #fff;
 }
 #page-meta .button:hover {
-    background: $primary-color;
+    background: $mia-mid;
 }
 .meta-info p {
   font-size: rem-calc(13);
@@ -423,3 +423,12 @@ body.video cite { color: #fff; }
     grid-template-columns: 1fr;
   }
 }
+
+.button-group .button {
+    margin-right: 0.5rem;
+    background: $mia-color;
+    
+  } 
+  .button-group .button:hover {
+    background: $mia-mid
+  }

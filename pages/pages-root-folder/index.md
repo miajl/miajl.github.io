@@ -5,6 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: page-fullwidth
+title: "Profile"
+teaser: "Hi, I'm Mia LaRocca, a robotics engineer. I am a recent graduate from the JEMARO program with my Master's in Robotics and a Bachelor's in Aeronautical and Astronautical Engineering from MIT. I mainly focus on robotics software development including autonomy and AI/ML solutions."
 header:
     image: logo.png
     background-color: "#3a00ab"
@@ -47,9 +49,51 @@ permalink: /index.html
 #
 homepage: true
 ---
-## Profile
 
-I'm a robotics engineer who needs a job!
+<div class="button-group radius">
+  <a class="button small" href="{{ site.url }}{{ site.baseurl }}/resume/">Resume</a>
+  <a class="button small" href="https://www.linkedin.com/in/mia-j-la-rocca/">LinkedIn</a>
+</div>
+<!-- 
+<div class="row">
+  <div class="small-6 columns">
+    <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/resume/">
+      Resume
+    </a>
+  </div>
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/resume/">Resume</a>
+  <div class="small-6 columns">
+    <a class="radius button small" href="https://www.linkedin.com/in/mia-j-la-rocca/">
+      LinkedIn
+    </a>
+  </div>
+</div> -->
+
+## Projects
+
+<div class="image-grid">
+  <div class="image-card">
+    <a href="/projects/thesis/" class="image-link">
+        <div class="image-title-overlay">Master's Thesis</div>
+      <img src="/images/projects/thesis/training_framework.png" alt="Master's Thesis" style="width: 100%; max-width: 250px;">
+    </a>
+    <div class="image-caption">Learning-based control of bi-manual robot.</div>
+  </div>
+
+  <div class="image-card">
+    <a href="/projects/rss/" class="image-link">
+        <div class="image-title-overlay">Bachelor Capstone</div>
+      <img src="/images/rss_img.png" alt="Capstone Project" style="width: 100%; max-width: 250px;">
+    </a>
+    <div class="image-caption">Short description of project two.</div>
+  </div>
+
+  <div class="image-card">
+    <a href="/projects/others/" class="image-link">
+        <div class="image-title-overlay">Others</div>
+      <img src="/images/projects/others/final_gui.png" alt="Others" style="width: 100%; max-width: 250px;">
+    </a>
+    <div class="image-caption">Smaller scale academic and personal projects.</div>
+  </div>
+</div>
 

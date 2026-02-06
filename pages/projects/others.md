@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Others"
+teaser: "Smaller academic and personal projects"
 header:
     image: logo.png
     background-color: "#3a00ab"

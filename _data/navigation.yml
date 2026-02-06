@@ -17,6 +17,6 @@
   - title: "Others"
     url: "/projects/others/"
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
