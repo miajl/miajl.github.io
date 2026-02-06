@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
-title: "Wonderful Typography"
-subheadline: "Reading Experience"
-meta_teaser: "Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
-teaser: "<em>Feeling Responsive</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
+title: "Autonomous Car Project"
+subheadline: "RSS Capstone"
+meta_teaser: "As part of a team, I wrote software in ROS to make an autonomous car go."
+teaser: "ROS project to make an autonomous car do localization, path planning, control and obstacle avoidance."
 header:
     image: homepage_typography.jpg
     background-color: "#262930"

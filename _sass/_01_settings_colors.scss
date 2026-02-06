@@ -44,6 +44,9 @@ $alert-color        : $ci-5;
 $success-color      : $ci-6;
 $warning-color      : $ci-4;
 $info-color         : $ci-1;
+$mia-color          : #3a00ab;
+$mia-mid            : #7447ef;
+$mia-light          : #9b94ff;
 
 
 
@@ -83,24 +86,24 @@ $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-label-color: $mia-mid;
+$topbar-dropdown-link-bg-hover: $mia-light;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $mia-light; // Active Navigation Link
+$topbar-link-bg-hover: $mia-light;
+$topbar-link-bg-active-hover: $mia-mid;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $mia-light; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-link-bg: $mia-mid;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $mia-light;
+$topbar-menu-icon-color-toggled: $mia-light;
 
 
 
