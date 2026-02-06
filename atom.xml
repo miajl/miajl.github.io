@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://miajl.github.io/</id>
+	<title>Mia LaRocca</title>
+	<updated>2026-02-06T13:29:46-05:00</updated>
+
+	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Mia LaRocca</name>
+			
+			
+				<email>mlarocca3435@gmail.com</email>
+			
+			
+		</author>
+	
+
+	<link href="https://miajl.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://miajl.github.io/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.4.1">Jekyll</generator>
+
+	
+</feed>

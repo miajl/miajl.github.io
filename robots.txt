@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://miajl.github.io/sitemap.xml
